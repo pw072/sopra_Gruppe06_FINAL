@@ -1,0 +1,22 @@
+{
+  "standard_level": 3,
+  "benutzer_level": {
+    "Sachbearbeiter": 1,
+    "Fachkraft": 2,
+    "Teamleiter": 3,
+    "s26s521": 3
+  },
+  "aktion_min_level": {
+    "create_delivery": 2,
+    "create_picklist": 2,
+    "change_delivery_status": 2,
+    "change_pickliste_status": 2,
+    "complete_order": 3,
+    "cancel_order": 3
+  },
+  "level_namen": {
+    "1": "Sachbearbeiter",
+    "2": "Fachkraft",
+    "3": "Teamleiter"
+  }
+}
